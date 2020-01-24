@@ -1,0 +1,19 @@
+export const LOGIN_INPUTS = "LOGIN_INPUTS";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+
+export const TASKADDED_SUCCESS = "TASKADDED_SUCCESS";
+
+export const TASK_DETAILS = "TASK_DETAILS";
+
+export const USERS_DATA = "USERS_DATA";
+
+export const ASSIGN_ACTION = "ASSIGN_ACTION";
+
+export const ASSIGNEMP_INPUTS = "ASSIGNEMP_INPUTS";
+
+export const UPDATETASK_INPUTS = "UPDATETASK_INPUTS";
+
+export const START_STARTED = "START_STARTED";

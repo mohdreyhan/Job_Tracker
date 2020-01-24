@@ -1,0 +1,70 @@
+.signupimage {
+    /* background-image: url("../../images/bgpic.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .formContainer {
+    margin: 0 auto;
+    width: 70%;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+  
+  .textFieldHeader {
+    color: black
+  }
+  .textFieldHeader:hover {
+    color: #747272;
+  }
+  
+  .textField {
+    background-color: #23272b;
+  }
+  
+  .textField:focus {
+    background-color: #fff4f4;
+    color: black;
+  }
+  
+  .formbtn {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .submitBtn {
+    width: 50%;
+    margin-top: 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  
+  .textmsg {
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  
+  .existingusertext {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .title {
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 40px;
+  }
+  

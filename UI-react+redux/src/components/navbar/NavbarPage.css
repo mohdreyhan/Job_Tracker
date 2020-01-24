@@ -1,0 +1,26 @@
+.navbartitle {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.navbartitle:hover {
+  text-decoration: none;
+  color: white;
+}
+.navlinks {
+  color: white;
+  text-decoration: none;
+}
+
+.navlinks:hover {
+  color: rgba(255, 255, 255, 0.75);
+  text-decoration: none;
+}
+
+.navbar {
+  background: #003d79;
+  border-radius: 30px;
+}
